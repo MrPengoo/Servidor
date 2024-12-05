@@ -1,0 +1,4 @@
+#List of in-game IDs of additional crops
+crops = []
+"require hoe" = false
+
