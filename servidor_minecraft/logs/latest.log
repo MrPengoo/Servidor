@@ -3959,3 +3959,31 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:507) ~[netty-all-4.1.68.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:446) ~[netty-all-4.1.68.Final.jar:?]
 	... 29 more
+[11:45:35] [User Authenticator #1/INFO]: UUID of player Pengosonic is d86021ed-a209-4638-b0e1-002e2f116b5d
+[11:45:36] [Server thread/INFO]: Pengosonic[/127.62.89.62:52557] logged in with entity id 79 at (-1815.6824158674294, 24.0, 680.7206791735863)
+[11:45:36] [Server thread/INFO]: Syncing config to Pengosonic (d86021ed-a209-4638-b0e1-002e2f116b5d)
+[11:45:36] [Server thread/INFO]: Loading config from file...
+[11:45:36] [Server thread/INFO]: Pengosonic joined the game
+[11:45:36] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@44f22f5c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:45:36] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5662f781 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:45:36] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@44f22f5c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:45:36] [Netty Epoll Server IO #1/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5662f781 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:45:38] [Netty Epoll Server IO #1/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[11:45:44] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Pengosonic -> Global
+[11:45:44] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Pengosonic. Normal: GRAVE / Robbing: INVENTORY
+[11:45:54] [Netty Epoll Server IO #1/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
+[11:46:22] [Server thread/INFO]: Pengosonic lost connection: Disconnected
+[11:46:22] [Server thread/INFO]: Pengosonic left the game
+[11:52:00] [User Authenticator #2/INFO]: UUID of player Pengosonic is d86021ed-a209-4638-b0e1-002e2f116b5d
+[11:52:01] [Server thread/INFO]: Pengosonic[/127.62.89.62:35435] logged in with entity id 401 at (-1815.6824158674294, 24.0, 680.7206791735863)
+[11:52:01] [Server thread/INFO]: Syncing config to Pengosonic (d86021ed-a209-4638-b0e1-002e2f116b5d)
+[11:52:01] [Server thread/INFO]: Loading config from file...
+[11:52:01] [Server thread/INFO]: Pengosonic joined the game
+[11:52:01] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@44f22f5c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:52:01] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5662f781 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:52:01] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@44f22f5c (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:52:01] [Netty Epoll Server IO #4/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@5662f781 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[11:52:01] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has recipe viewer installed, sending CobbleGen config...
+[11:52:01] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Pengosonic -> Global
+[11:52:01] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Pengosonic. Normal: GRAVE / Robbing: INVENTORY
+[11:52:04] [Netty Epoll Server IO #4/INFO]: [CobbleGen] Player has received the server's newest CobbleGen config
