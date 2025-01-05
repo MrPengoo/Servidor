@@ -1,0 +1,67 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-01-05 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-05 02:44:23 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-01-05 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-01-05 02:47:56 +0000",
+      "minecraft:birch_forest": "2025-01-05 02:44:38 +0000",
+      "minecraft:beach": "2025-01-05 02:45:51 +0000",
+      "minecraft:river": "2025-01-05 02:44:23 +0000",
+      "minecraft:stony_shore": "2025-01-05 02:44:11 +0000",
+      "minecraft:forest": "2025-01-05 02:44:37 +0000",
+      "minecraft:ocean": "2025-01-05 02:45:46 +0000",
+      "minecraft:flower_forest": "2025-01-05 02:47:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-05 02:43:17 +0000",
+      "minecraft:meadow": "2025-01-05 02:45:36 +0000",
+      "minecraft:plains": "2025-01-05 02:45:54 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
